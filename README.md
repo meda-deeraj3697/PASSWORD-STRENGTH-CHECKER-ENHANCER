@@ -34,21 +34,21 @@ git clone https://github.com/your-username/password-strength-checker.git
 
 Navigate to the project directory:
 
-cd password-strength-checker
+    `cd password-strength-checker`
 
 Install dependencies:
 
-pip install -r requirements.txt
+    `pip install -r requirements.txt`
 
 Run the application:
 
-python app.py
+    `python app.py`
 
 Open your browser and navigate to:
 
-http://127.0.0.1:5000
+    http://127.0.0.1:5000
 
-Example Output 🖼️
+Example
 Input:
 Password: mypassword
 Output:
