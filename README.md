@@ -23,7 +23,9 @@ Tips to improve the password.
 A strong, randomized password suggestion is displayed for weak passwords.
 # Technologies Used 🛠️
 Backend: Flask (Python)
+
 Frontend: HTML, CSS, Jinja2 templates
+
 Logic: Python's re for regex-based password analysis
 # Installation 🖥️
 Clone the repository:
