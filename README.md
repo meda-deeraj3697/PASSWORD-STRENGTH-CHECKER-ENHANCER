@@ -49,10 +49,15 @@ Open your browser and navigate to:
     http://127.0.0.1:5000
 
 Example
+
 Input:
+
 Password: mypassword
+
 Output:
+
 Password Strength: Weak
+
 Score: 40/100
 
 Feedback:
