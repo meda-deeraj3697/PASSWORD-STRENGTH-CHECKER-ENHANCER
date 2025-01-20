@@ -29,15 +29,25 @@ Frontend: HTML, CSS, Jinja2 templates
 Logic: Python's re for regex-based password analysis
 # Installation 🖥️
 Clone the repository:
+
 git clone https://github.com/your-username/password-strength-checker.git
+
 Navigate to the project directory:
+
 cd password-strength-checker
+
 Install dependencies:
+
 pip install -r requirements.txt
+
 Run the application:
+
 python app.py
+
 Open your browser and navigate to:
+
 http://127.0.0.1:5000
+
 Example Output 🖼️
 Input:
 Password: mypassword
